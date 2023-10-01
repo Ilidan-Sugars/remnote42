@@ -65,14 +65,7 @@
             </div>
 
              <!-- список -->
-            <div class="col-md-3">
-                    <ul class="footer__list line-block glow_red">
-                        <li>Домой</li>
-                        <li>О нас</li>
-                        <li>Сервис</li>
-                        <li>Цены</li>
-                    </ul>
-            </div>
+          
         </div>
     </div>
 </footer>
