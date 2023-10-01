@@ -1,9 +1,10 @@
 
-.fillet-buttons {
-    
+#contacs {
+    border-bottom: 4px !important;
+    border-color:crimson !important;
+    padding: 100px 0px 0px 0px;
 }
 
-.block9 {
-    border-bottom: 4px;
-    border-color:crimson;
+#contacs .btn-primary {
+    margin-top: 15px;
 }
